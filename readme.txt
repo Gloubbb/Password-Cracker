@@ -1,0 +1,1 @@
+This code is a school project, and has to be used on educational purposes only.
